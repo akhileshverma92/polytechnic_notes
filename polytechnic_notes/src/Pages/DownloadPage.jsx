@@ -98,7 +98,7 @@ function DownloadPage() {
                         <span className="font-medium text-gray-800">{note.semester}</span>
                       </p>
                       <p className="text-gray-600 text-sm flex items-center">
-                        <span className="w-20">Author:</span>
+                        <span className="w-20">Contributer:</span>
                         <span className="font-medium text-gray-800">{note.contributor || "Unknown"}</span>
                       </p>
                     </div>
